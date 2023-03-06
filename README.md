@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Schofi
 - 👀 I’m interested in Linux system ,file system  ,c ,cpp ,golang 
-- 🌱 I’m currently learning cmu bustub
-- 💞️ I’m looking to collaborate on study database
+- 🌱 I’m currently learning 6.824 ，6.828
+- 💞️ I’m looking to collaborate on study GPU
 - 📫 How to reach me ...
 
 <!---
