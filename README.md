@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @Schofi
-- 👀 I’m interested in Linux system ,file system  ,c ,cpp ,golang 
-- 🌱 I’m currently learning 6.824 ，6.828
-- 💞️ I’m looking to collaborate on study GPU
-- 📫 How to reach me ...
+- 👋 Hi, I'm @Schofi
+- 🔭 I'm passionate about large language models and AI system development
+- 🌱 Currently diving deep into:
+  - Distributed training frameworks (Megatron-LM, DeepSpeed)
+  - Model optimization techniques (quantization, pruning)
+  - GPU acceleration and CUDA optimization
+- 💻 Tech stack:
+  - Languages: Python (PyTorch), C++ (high-performance computing), Go (backend systems)
+  - Infrastructure: Kubernetes, Docker, NVIDIA GPU Stack
+  - Special interest in Linux systems and filesystem optimization for AI workloads
+- ✨ Interested in:
+  - Collaborative open-source LLM projects
+  - Novel model architectures
+  - Efficient inference techniques
 
-<!---
-Schofi/Schofi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Currently exploring the intersection of systems programming and large-scale ML!
